@@ -21,7 +21,7 @@
 
 ```diff
 + 👋 Hola, soy Bryan (@brieml)
-+ 👀 Me apasiona: Python, Java, JavaScript, HTML, CSS, React.js, Visual Basic, MySQL, C++
-+ 🌱 Actualmente aprendiendo: Python y Java a profundidad
++ 👀 Me apasiona: Python, Java, JavaScript, HTML, CSS, React.js, angular.js, vue.js, firebase, SQL. 
++ 🌱 Actualmente aprendiendo: Python y JavaScript a profundidad
 + 💞️ Busco colaborar en: proyectos open-source, apps útiles y experiencias web innovadoras
 + 📫 ¿Cómo contactarme? → brieml.dev@gmail.com (o por GitHub Issues/DMs)
