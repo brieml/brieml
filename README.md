@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @brieml
-- 👀 I’m interested in Python, Java, Javascript, Html, Css, React.js, Visual basic, Mysql, C++
-- 🌱 I’m currently learning Python, Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--
+  ✨✨✨
+  ¡Hola! Si ves esto, gracias por pasar 😊
+  Este README está diseñado con estilo retro-moderno 🕹️
+  ✨✨✨
+-->
 
-<!---
-brieml/brieml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=500&lines=Hola%2C+mundo!;Soy+Bryan;Front-End+%26+Full-Stack+Dev" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284143-55e4a794-7171-4874-b77e-56e4378f3367.gif" width="30" alt="pixel heart"/> 
+  Código limpio, UI/UX cuidadosa y nostalgia digital 
+  <img src="https://user-images.githubusercontent.com/74038190/212284143-55e4a794-7171-4874-b77e-56e4378f3367.gif" width="30" alt="pixel heart"/>
+</p>
+
+---
+
+### 🧑‍💻 Sobre mí
+
+```diff
++ 👋 Hola, soy Bryan (@brieml)
++ 👀 Me apasiona: Python, Java, JavaScript, HTML, CSS, React.js, Visual Basic, MySQL, C++
++ 🌱 Actualmente aprendiendo: Python y Java a profundidad
++ 💞️ Busco colaborar en: proyectos open-source, apps útiles y experiencias web innovadoras
++ 📫 ¿Cómo contactarme? → brieml.dev@gmail.com (o por GitHub Issues/DMs)
