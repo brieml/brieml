@@ -20,7 +20,7 @@
 ### 🧑‍💻 Sobre mí
 
 ```diff
-+ 👋 Hola, soy Bryan (@brieml)
++ 👋 Hola, soy Briem (@brieml)
 + 👀 Me apasiona: Python, Java, JavaScript, HTML, CSS, React.js, angular.js, vue.js, firebase, SQL. 
 + 🌱 Actualmente aprendiendo: Python y JavaScript a profundidad
 + 💞️ Busco colaborar en: proyectos open-source, apps útiles y experiencias web innovadoras
